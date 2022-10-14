@@ -1,0 +1,26 @@
+{
+  "vendor": "iocorello",
+  "name": "custom-product-images",
+  "version": "0.0.2",
+  "title": "Custom Product Images",
+  "defaultLocale": "pt-BR",
+  "description": "Components to render product images",
+  "builders": {
+    "react": "3.x",
+    "store": "0.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "mustUpdateAt": "2019-04-02",
+  "dependencies": {
+    "vtex.css-handles": "1.x",
+    "vtex.device-detector": "0.x",
+    "vtex.modal-layout": "0.x",
+    "vtex.product-context": "0.x",
+    "vtex.responsive-values": "0.x",
+    "vtex.search-graphql": "0.x",
+    "vtex.store-icons": "0.x",
+    "vtex.styleguide": "9.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
