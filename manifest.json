@@ -1,7 +1,7 @@
 {
   "vendor": "iocorello",
   "name": "custom-product-images",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Custom Product Images",
   "defaultLocale": "pt-BR",
   "description": "Components to render product images",
